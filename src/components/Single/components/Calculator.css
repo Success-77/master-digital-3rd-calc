@@ -10,7 +10,6 @@
   align-items: start;
   flex-direction: row;
   width: 100%;
-  margin: auto;
 }
 
 .form-container,
@@ -98,7 +97,7 @@
 
   .form-container,
   .packs-container {
-    width: 80%;
+    width: 100%;
     margin: 2rem auto;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
